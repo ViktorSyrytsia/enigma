@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "enigma-8fe15": {
+      "hosting": {
+        "enigma": [
+          "enigma-8fe15"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "enigma-8fe15"
+  }
+}
